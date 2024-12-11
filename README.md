@@ -86,5 +86,9 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 
 <img width="193" alt="Screenshot 2024-12-11 195412" src="https://github.com/user-attachments/assets/3a9b386c-6b9a-43ad-8766-f2f88ce47456">
 
+# BERIKUT FLOWCHART:
+
+<img width="608" alt="Screenshot 2024-12-11 195632" src="https://github.com/user-attachments/assets/3a463f6f-9857-446a-917e-85f3375adb7d">
+
 
 
